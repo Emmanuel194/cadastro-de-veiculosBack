@@ -51,7 +51,7 @@ no seu banco execute o seguinte codigo:
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ``
-é também execute esse aqui para a tabela de veículos:
+também execute esse aqui para a tabela de veículos:
 
 ``CREATE TABLE vehicles (
   id SERIAL PRIMARY KEY,
